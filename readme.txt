@@ -1,16 +1,16 @@
 === TvProfil Widget ===
 Contributors: Vladimir Kovacevic
 Donate link: http://tvprofil.net/phbox/
-Tags: TV, schedule, program, raspored, televizija, programme, musor, spored
+Tags: TV, schedule, program, raspored, televizija, programme, musor, spored, epg
 Requires at least: 3.0
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 4.1
+Stable tag: 1.1
 
 Display simple TV schedule on you site.
 
 == Description ==
 Widget that displays TV schedule from various TV stsations from 
-Croatia, BiH, Serbia, Slovenia, Montenegro, Macedonia, Italia, Germany, Hungary, Romania and Turky.
+Croatia, BiH, Serbia, Slovenia, Montenegro, Macedonia, Italia, Austria, Germany, Hungary, Romania and Turky.
 
 
 == Installation ==
@@ -41,3 +41,4 @@ Only premium members can choose custom list of channels. Please go to http://tvp
 == Changelog ==
 
 *	**1.0**: Initial public release.
+*	**1.1**: Added Austrian channels and new skins

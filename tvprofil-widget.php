@@ -4,7 +4,7 @@
   Plugin name:  TvProfile Widget
   Plugin URI:   http://tvprofil.net/phbox/
   Description:  Widget for TV schedule display
-  Version:      1.0
+  Version:      1.1
   Author:       Vladimir Kovacevic
   Author URI:   http://tvprofil.net/
 
@@ -99,7 +99,9 @@ class TvProfilWidget extends WP_Widget {
 				8	=>	'm1, m2, TV2, RTL Klub'),
 			'Germany'	=> array(
 				22	=>	'RTL, RTL2, PRO7, SAT1'),
-			'Itali'	=> array(
+			'Austria'	=> array(
+				26	=>	'ORF1, ORF2, ATV1, ATV2'),
+			'Italy'	=> array(
 				23	=>	'RAI1, RAI2, Rete4, Canale5'),
 			'Romania'	=> array(
 				24	=>	'TVR1, TVR2, TVRi'),
@@ -109,7 +111,7 @@ class TvProfilWidget extends WP_Widget {
 		
 		$customCSS="(Custom CSS file)";
 		$styles = array(
-			"tvprofil.css", "black.css", "boxstyle.css", "sportnet.css", "crveni.css", "livada.pondi.css", "mojportal.css", "sivi.css", $customCSS
+			"tvprofil.css", "black.css", "plasma.css","windows8.css","xjure.css", "xjure2.css", "boxstyle.css", "sportnet.css", "crveni.css", "livada.pondi.css", "mojportal.css", "sivi.css", $customCSS
 		);
 		
 		echo '<p>';
