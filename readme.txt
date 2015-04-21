@@ -3,7 +3,7 @@ Contributors: Vladimir Kovacevic
 Donate link: http://tvprofil.net/phbox/
 Tags: TV, schedule, program, raspored, televizija, programme, musor, spored, epg
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.1
 
 Display simple TV schedule on you site.
